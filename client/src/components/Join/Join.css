@@ -1,0 +1,62 @@
+html,
+body {
+	font-family: "PT Mono";
+	padding: 0;
+	margin: 0;
+}
+
+#root {
+	height: 100vh;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.join-outer-container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    background-color: #ededed;
+}
+
+.join-inner-container {
+	padding: 10px;
+	border: 1px solid #808080;
+}
+
+.join-heading {
+	font-weight: 400;
+}
+
+.join-input {
+	width: 100%;
+	margin: 5px 0;
+	border-radius: 5px;
+	border: 0;
+}
+
+.join-input:hover {
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.join-button {
+	color: #fff !important;
+    background: #2979FF;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+	cursor: pointer;
+}
+
+.join-button:hover {
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
