@@ -14,7 +14,6 @@ ReactJS chat room
 - ReactDOM
 - React Router DOM
 - Socket.io Client
-- Styled Components
 
 ## Запуск приложения
 
