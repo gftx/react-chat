@@ -2,15 +2,11 @@ ReactJS chat room
 ------
 
 ## Used technologies
-
-*Common*:
-
-- 
-
 *Server*:
 
 - Socket.io
 - NodeJS
+- ExpressJS
 
 *Client*:
 
