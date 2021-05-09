@@ -6,7 +6,6 @@ const TextContainer = ({ users }) => (
 		<div>
 			<div>Realtime Chat Application </div>
 			<div>Created with React, Express, Node and Socket.IO </div>
-      <div>{console.log(users)}</div>
 		</div>
     {
       users
