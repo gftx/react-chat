@@ -9,6 +9,7 @@
 	align-items: center;
 	justify-content: center;
     background-color: #ededed;
+	padding: 30px;
 }
 
 .chat-inner-container {
