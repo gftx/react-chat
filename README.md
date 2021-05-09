@@ -2,7 +2,7 @@ ReactJS chat room
 ------
 ### Deploy on Netlify & Heroku: 
 
-https://6097dce880c856ab27aa053d--vibrant-borg-767833.netlify.app/
+https://vibrant-borg-767833.netlify.app/
 
 ### Used technologies
 *Server*:
