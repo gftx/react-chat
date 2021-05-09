@@ -2,15 +2,11 @@ ReactJS chat room
 ------
 
 ## Used technologies
-
-*Common*:
-
-- 
-
 *Server*:
 
 - Socket.io
 - NodeJS
+- ExpressJS
 
 *Client*:
 
@@ -18,7 +14,6 @@ ReactJS chat room
 - ReactDOM
 - React Router DOM
 - Socket.io Client
-- Styled Components
 
 ## Запуск приложения
 
